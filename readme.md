@@ -1,8 +1,6 @@
 # Projeto Warrior Run - Série
 
-<p align="center">
-  <img src="./src/gif/WarriorNun.gif" alt="video da tela inicial do projeto" width="90%" background-size: cover>
-</p>
+C:\Users\aline\OneDrive\Área de Trabalho\Projeto Devequest\szpc-projeto-warrior-run\szpc-projeto-warrior-run\src\video\video-warriorNun.mp4
 
 ## Tecnologias utilizadas
 - HTML
