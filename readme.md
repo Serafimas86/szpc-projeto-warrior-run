@@ -1,7 +1,7 @@
-# Projeto Warrior Run - Série
+# Projeto Warrior Nun - Série
 
 <p align="center">
-  https://youtu.be/r5xTfYdXGkU
+  <img src="https://youtu.be/r5xTfYdXGkU"/>
 </p>
 
 ## Tecnologias utilizadas
