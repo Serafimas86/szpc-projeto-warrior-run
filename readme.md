@@ -1,7 +1,7 @@
 # Projeto Warrior Nun - Série
 
 <p align="center">
-  <video src="https://youtu.be/r5xTfYdXGkU"/>
+  <img src="./src/gif/WarriorNun.gif" alt="video da tela inicial do projeto" width="90%">
 </p>
 
 ## Tecnologias utilizadas
